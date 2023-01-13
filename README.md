@@ -27,6 +27,4 @@ Priyanshujha11/Priyanshujha11 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshujha11&show_icons=true&theme=chartreuse-dark" alt="Priyanshujha11"/>       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshujha11&theme=chartreuse-dark&layout=compact" alt="Priyanshujha11" />
 
